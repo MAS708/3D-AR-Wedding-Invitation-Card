@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="diagram" size="10.000000 15.023474" />
+    <ImageTarget name="buku2" size="10.000000 14.595211" />
+    <ImageTarget name="buku" size="10.000000 13.459517" />
+    <ImageTarget name="kardus1" size="10.000000 10.240000" />
+  </Tracking>
+</QCARConfig>
